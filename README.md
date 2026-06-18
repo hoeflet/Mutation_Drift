@@ -11,4 +11,4 @@ All scripts used to analyze and plot data is given within the ```MutDrift.ipynb`
 
 Please cite our paper if you reuse any of our analysis or pipelines.
 
-*Paper in preparation*
+*Paper in preparation, citation will be updated*
